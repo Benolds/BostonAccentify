@@ -1,0 +1,40 @@
+The digital era is bombarding us with words, a torrent of e-mails, texts, and tweets that at some point can be just too much.
+Imagine a text message, e-mail, even a long news article, displayed as a series of single-word flashcards, moving so quickly you could read 600 words a minute — more, even.
+That’s the simple explanation behind a radical new reading technology a Boston-area company is developing for this era of small screens.
+“It’s a little shocking at first,” admits Frank Waldman, chief executive of Spritz Technology Inc., in North Reading. “It’s like, ‘Oh my God, I’m a reading robot.’ But it’s really not that way. It’s for reading on the go.”
+Spritz is setting out to revolutionize the way we read on mobile devices. It displays words in bursts, so readers can quickly understand each one while whipping through the mass of text piling up on our tablets and smartphones.
+The technology is expected to have its first major public debut on the next-generation Galaxy smartphone and smartwatches that Samsung is scheduled to release in April.
+Since its launch last month, Spritz has opened eyes around the Web and was even featured on the “Today” show. Fans have taken to Twitter to profess they will read only with Spritz from now on. Others, though, question whether Spritz really works, or that it is necessary for people to read so fast.
+“At what cost is speed?” asked Maryanne Wolf, director of the Center for Reading and Language Research at Tufts University. “I question the very assumption that speed is better.”
+The science behind Spritz isn’t new, but it has been retooled and optimized for a digital era. Most people find a reading speed of around 200 words per minute comfortable, whether on paper or online. Spritz users can set their optimal reading speed, starting at 250 words a minute.
+Spritz, though, is based on a theory that the mind can recognize a word when the eye sees a particular part of it. That portion of the word is called the “optimal recognition point.” When the eye spots it, the brain processes the word. And then moves onto the next word. And the next, and next, and so on.
+The trick behind Spritz is to highlight every word’s optimal recognition point in red. The red letter in every word is placed in the same spot on the Spritz reader. That way, the eye doesn’t wander and lose track, or work extra to get back on target.
+“If the brain doesn’t have to move the eye, you can better focus on what you’re reading,” Waldman said. “If you only have one word at a time, your eye really can’t go anywhere.”
+That, Waldman said, is how the mind can make sense out of what would otherwise be a dizzying stream of words. With the eye fixed on one position and words flashing by, Spritz claims, many readers can learn to read 1,000 words per minute — or more.
+That is, if you can stand it.
+“I don’t know how long you can do it before you’d be exhausted,” said Mark Rosenfield, a professor at the State University of New York College of Optometry who has studied the effects of digital reading on the eyes.
+With Spritz, he said, “If you had to blink or rub your eyes you might miss 20 or 30 words.”
+In general, all our staring at screens is taking a toll. In a study published in 2012, Rosenfield found that 40 percent of office workers have tired eyes during the workday as a result of looking at computer screens. It’s so common it has a name: computer vision syndrome.
+Rosenfield worries Spritz might only make matters worse. One reason: Readers may focus so intently on the Spritz reader they forget to blink. And not blinking enough can lead to more eye fatigue.
+Technologists have been trying to figure out new ways of delivering text on mobile devices for more than a decade. Tablet makers are still tinkering with background lighting and resolutions. App developers are constantly working up new designs for better ways to digest content.
+While computers are incredibly sophisticated, the way people interact with them is still far from perfect, said Chris Harrison, assistant professor in the Human-Computer Interaction Institute at Carnegie Mellon University.
+Spritz represents something of an evolution in the field, especially when it’s applied to a screen as small as one on a wristwatch, Harrison said.
+“They’ve done it at a time when smartwatches have become interesting for the first time,” Harrison said. “Clearly, you’re not going to fit a Web page or an e-book on your wrist.”
+A similar approach was tried over a decade ago, with underwhelming results. In a 2002 study, researchers tested a method known as rapid serial visual presentation that, similar to Spritz, displayed one word at a time on a computer. They concluded that the subjects of the study did not like the quick presentation of text.
+Ironically, the device that researchers used to test the method did not survive, either. It was a PalmPilot, the precursor to today’s smartphones.
+To be sure, the text on the early PalmPilot wasn’t as elegant as words that appear on today’s high-resolution iPhones, and there simply wasn’t the same flood of information.
+The Spritz technology was originally developed by Waldman’s business partner, German scientist and entrepreneur Maik Maurer, so that he could more quickly read articles.
+The two met through previous business dealings and Maurer reached out to Waldman, a seasoned entrepreneur, to help commercialize his technology.
+Spritz is Waldman’s fifth startup.
+When the two began working together full time on Spritz in 2012, they weren’t sure it would take off right away. Now they’re surprised by the attention that followed Waldman’s trip to Spain in February to launch Spritz at the Mobile World Congress, one of the industry’s largest conventions.
+In the hours and days after his presentations, Spritz received such an onslaught of attention that the company had to boost the capacity of its Internet servers by eight times.
+It also drew the interest of Irish telecom billionaire Denis O’Brien, who obtained a minority stake in Spritz for an undisclosed sum.
+So far, the company has raised about $4 million.
+Waldman and Maurer had been in talks with several tech companies about using Spritz, but so far Samsung is the first to incorporate it in its products. The world’s biggest seller of smartphones is expected to offer Spritz as part of its e-mail apps on the upcoming Galaxy products, including its wearable smartwatch.
+Samsung declined to comment.
+While the Samsung deal will expose Spritz to millions of potential users, even Waldman acknowledges Spritz isn’t for everyone, or for every text.
+But Thad Starner, a professor of computing at Georgia Tech and an early pioneer in mobile technologies, said this method of reading e-mail or texts could grow on readers as the devices we use — and wear — get increasingly smaller.
+“Until you try it,” Starner said, “you don’t get why it matters.”
+
+
+Source: http://www.bostonglobe.com/business/2014/03/09/reading-reinvented-for-mobile-era/rbkUuen33k0lsOJXEOTTSN/story.html

@@ -1,0 +1,57 @@
+Like many other fish dealers, Red’s Best is teeming with pallets of shiny succulent seafood, fresh haddock and hake, boxes of clams, and more exotic catches, with trails of crushed ice leading from bin to packing crate. But the real prize of Red’s operation at Boston Fish Pier is in a side room, where the company’s salesmen work from computers to market locally caught seafood to high-end wholesalers who sell to restaurants around the country.
+
+Powering this nerve center is a software program developed by Red’s Best founder, Jared Auerbach, that can provide buyers with an incredible level of detail on every fish and mollusk that comes through the doors. Each shipment comes with a label printed with a QR code that, when scanned, links to a Web page of information, from when and where the seafood was caught to a bio of the ship’s captain and even what equipment he used.
+
+“Where we’ve done well is giving people the tools to pass on the story of the fish. We believe there’s value in the story,” Auerbach said. “We’re aggressively marketing” local fishermen.
+
+Instead of just selling any old batch of oysters, Red’s Best can tell buyers when it has Martha’s Vineyard oysters, for instance, that were harvested by a particular fisherman with, say, a reputation for finding plump briny bivalves.
+
+In an age of factory ships and mislabeled seafood, the technology developed by Auerbach does more than promote fresh authentic seafood from local fishermen.
+
+It also provides buyers with a receipt that documents that the fish they are buying is the real thing — that it is in fact Atlantic Cod caught out of Chatham by a hook-and-line fisherman, for example, and not cheaper Pacific Cod.
+
+And in the process, Auerbach can get higher prices for his local fisherman, he said.
+
+Auerbach is among a handful of entrepreneurs in Boston and across the country who are trying to bring technology to the ancient industry of hauling fish from the sea, with innovations that promise to make fishing more economically and environmentally sustainable.
+
+The basics of buying and selling wild-caught seafood have changed little in decades, if not centuries: Fishermen set out on boats and then distribute their catch through a multi-step supply chain that eventually reaches consumers at restaurants and stores. Unlike in most other industries, technologies that people use every day — the Internet, software apps, hand-held computers — have not yet brought great efficiencies to commercial fishermen.
+
+But that creates opportunities for entrepreneurs, said Keith Flett, chief executive of the startup Open Ocean Trading in Plymouth, an online marketplace that functions much like a financial exchange, except that it’s for fishermen and seafood buyers.
+
+“This is an industry that has resisted the use of technology,” Flett said. “What you’re finding is that a lot of people are looking at improving the seafood industry because it hasn’t evolved at all and incorporated technology.”
+
+The child of a fishing family in Montauk, N.Y., Flett discovered an information gap in the supply chain that could be bridged with technology when he was a wholesale fish distributor. Fish buyers, such as restaurant chefs, were eager to plan what fish they could purchase but had little idea about what captains were fishing for until they returned to the dock.
+
+With Open Ocean Trading, he built a software platform that establishes a price for fish before captains head out, much the way other commodities, such as energy or crops, have futures prices.
+
+That allows fishermen to maximize their sales, and buyers can be assured that the fish they buy is locally sourced, Flett said.
+
+The service has been operating since 2012 and is being used by 17 colleges for their food-service operations, including the University of Massachusetts system.
+
+Flett cited the example of a group of Nantucket fishermen getting about 20 percent higher prices for their catch, a premium wholesalers were willing to pay to ensure a supply of the island’s highly desired scallops.
+
+Tools such as Open Ocean and Red’s software help sustain local fisheries, said Matthew Quetton, entrepreneur-in-residence at the Future of Fish, a nonprofit that promotes entrepreneurship in the seafood business.
+
+“Fishermen are very conscious of the state of the ocean,” Quetton said. “There’s a recognition that fishers play a role of farmers of the ocean and stewards of the ocean.”
+
+In New England, fish stocks are heavily regulated, so locally caught fish comes from sustainable managed stocks, said Peter Kendall, manager of the Yankee Fisherman’s Cooperative in Seabrook, N.H.
+
+But for consumers, it is often difficult to ensure their seafood was from a local source, or even that it is the species they ordered.
+The Boston Globe reported in 2011 about widespread false and mislabeled seafood at Massachusetts restaurants and stores. A sushi restaurant in Brookline that advertised white tuna, for example, was actually serving escolar, an oily species nicknamed the “Ex-Lax” fish by some in the industry because it can cause digestion problems. Fresh-water Nile perch was passed off as pricier ocean grouper by a supermarket in Burlington.
+And last year, the nonprofit research and advocacy group Oceana found that stores and restaurants around the country continued to sell mislabeled fish.
+
+Unscrupulous fish processors can fetch a higher price when substituting a lesser-quality fish for premium species, which creates a market for illegal fish and can hurt the health of people who eat contaminated fish, Oceana said.
+
+Problems with fraud and mislabeling have prompted a number of entrepreneurs to develop systems to improve the traceability of seafood. Among them is BackTracker, a business spun out by the Weymouth environmental consulting firm Vertex, which is developing a confidential database that seafood processors could use to record the route of seafood as it changes hands.
+
+With that supply-chain information trail, seafood buyers can verify that the fish on the plate is not mislabeled, said Michael Carroll, a former commercial fisherman and Vertex executive who is developing the database.
+
+“We came to the realization that if you look at the global markets and look at traceability, there’s a huge, huge black hole,” Carroll said. “In the seafood area, there’s no uniform database.”
+
+The ultimate beneficiaries of these new technologies are the fishermen who head to sea each year, seemingly under ever-more-restrictive catch limits that cut into their incomes.
+
+Now, perhaps with the aid of technology, they can target niche markets, such as high-end restaurants and farmers markets, and get higher prices for their catches.
+
+“It’s part of the buy-local movement,” said Kendall from the Yankee Fisherman’s Cooperative. “People are willing to spend a little more because they know it’s a little bit fresher, and they like the story of helping local fishermen.”
+
+Source: http://www.bostonglobe.com/business/2014/03/09/fish-dealers-embrace-technology/Ja8o6DdP2KoXjc6nyyk5cJ/story.html
