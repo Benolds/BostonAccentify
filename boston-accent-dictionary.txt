@@ -1,0 +1,80 @@
+‘very:wicked 
+‘extremely:wicked
+‘cool:pissa 
+‘excellent:wicked pissa 
+‘freeway:highway 
+‘highway shoulder:breakdown lane 
+‘potatoes:b’daydas 
+‘potato:b’dayda 
+‘soda:tonic 
+‘soda pop:tonic 
+‘water fountain:bubbla 
+‘hero sandwich:grinda 
+‘subway car:cah 
+‘can get:can't get 
+‘corner:cawna 
+‘first:fihst 
+‘four:foah 
+‘sure:shoe-ah 
+‘Cuba:Cuber 
+‘Havana:Havannar 
+‘Brenda:Brender 
+‘weird:wee-id 
+‘stupid:retahded 
+dumb:retahded 
+basement:down cella 
+dresser drawer:dressa drawah 
+jeans:dungies 
+bluejeans:dungies 
+kaiser rolls:egg rolls 
+rubber bands:elastics 
+rubber band:elastic 
+40:foddy 
+forty:foddy 
+30:thihdy 
+thirdy:thihdy 
+third:thihd 
+3rd:thihd 
+milkshake:frappe 
+malted:frappe 
+freaking:frickin' 
+freakin’:frickin' 
+bizarre:bizah 
+fudgsicle:fudgicle 
+garbage:gahbidge 
+tomato sauce:gravy 
+hamburger:hamburg 
+frankfurter:frankfurt 
+Hyde Park:Hipahk 
+Mattapan:Da Pan 
+Dorchester:Dawchesta 
+Quincy:Quinzee 
+ice cream:Hoodsie 
+crazy:hoopie 
+Boston:Hub 
+Shore:Shoah 
+North:Nawth 
+No shit:Light dawns ova Mahblehead 
+Really!:Light dawns ova Mahblehead 
+I get it:Light dawns ova Mahblehead 
+Medford:Meffid 
+No sir!:Na-ah! 
+On account of:onna conna 
+drive-in:open air 
+liquor store:packie 
+liquor:likka 
+living room:Pahlah 
+front porch:piazza 
+party:potty 
+pierced:pee-ihced 
+resident:rat 
+raw:rawr 
+Roslindale:Rozzie 
+West Roxbury:Westie 
+Jamaica Plain:JP 
+traffic circle:rotahry 
+roundabout:rotahry 
+foreign:westa Wuhstuh 
+tourist:foreigna 
+Saturday:Saddadee 
+here:heah

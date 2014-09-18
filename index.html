@@ -1,0 +1,87 @@
+<html>
+<head>
+
+<script type="text/javascript">
+function pageLoaded() {
+	document.getElementById('translation-full').checked = true;
+}
+
+function translateText() {
+	inputText = document.getElementById("input-text");
+	outputText = document.getElementById("output-text");
+	var rawText = inputText.value;
+	
+	var re_newlines = new RegExp("\n", 'g');
+	rawText = rawText.replace(re_newlines, "<br/>");
+	
+// 	localWord dictionary source: http://www.wickedgood.info/cgi-bin/forum/gforum.cgi?post=16775;search...
+	var localWordConversion = {' very ':' wicked ',' extremely ':' wicked ',' cool ':' pissa ',' excellent ':' wicked pissa ','freeway':'highway','highway shoulder':'breakdown lane','potatoes':'b\'daydas','potato':'b\'dayda','soda':'tonic','soda pop':'tonic','water fountain':'bubbla','hero sandwich':'grinda','subway car':'cah','can get':'can\'t get','corner':'cawna','first':'fihst','four':'foah','sure':'shoe-ah','Cuba':'Cuber','Havana':'Havannar','Brenda':'Brender','weird':'wee-id','stupid':'retahded','dumb':'retahded','basement':'down cella','dresser drawer':'dressa drawah','jeans':'dungies','bluejeans':'dungies','kaiser roll':'egg roll','rubber band':'elastic','40':'foddy','forty':'foddy','30':'thihdy','thirdy':'thihdy','third':'thihd','3rd':'thihd','milkshake':'frappe','malted':'frappe','bizarre':'bizah','fudgsicle':'fudgicle','garbage':'gahbidge','tomato sauce':'gravy','hamburger':'hamburg','frankfurter':'frankfurt','Hyde Park':'Hipahk','Mattapan':'Da Pan','Dorchester':'Dawchesta','Quincy':'Quinzee','ice cream':'Hoodsie','crazy':'hoopie','Boston':'the Hub','Shore':'Shoah','North':'Nawth','Medford':'Meffid','No sir!':'Na-ah!','On account of':'onna conna','drive-in':'open air','liquor store':'packie','liquor':'likka','living room':'Pahlah','front porch':'piazza','party':'potty','pierced':'pee-ihced','resident':'rat','Roslindale':'Rozzie','West Roxbury':'Westie','Jamaica Plain':'JP','traffic circle':'rotahry','roundabout':'rotahry','foreign':'westa Wuhstuh','tourist':'fohreigna','Saturday':'Saddadee','here':'heah'}
+	var charConversion = {'ar':'ah','ore':'ah','or':'ah','ere':'eah','er':'uh', 'ol':'ahl','oa':'a','om':'ahm','on':'ahn','ing':'in\'','ire ':'iyah ','you':'yah','oce':'ahs','our':'oah','ture':'chah',' and, ':' and ahh, ', 'ure ':'oo-ah '};
+	var falsePositiveConversion = {'ahe':'are','ahy':'ary','uhe':'ure','ane':'one','uha':'ura','aha':'ara', 'in\' to ':'inna ','teah':'tere','weah':'wuh','rin\'':'ring','ahce':'ace','ered ':'uhd ','ahi':'ari','eahnt':'\'rent','uhie':'erie', ' ura ':' era ',' mah ':' moah ', ' oah ':' our '};
+	
+	if (document.getElementById('translation-quotes').checked)
+	{
+		var goodQuotes = rawText.replace(/[\u201C\u201D]/g, "\"");	
+		var splitText = goodQuotes.split("\"");
+	
+		var isInsideQuotes = false;
+	
+		for (var i=0; i < splitText.length; i++) 
+		{
+			if (isInsideQuotes) {
+				for (char in localWordConversion) {
+					var re = new RegExp(char, 'g');
+					splitText[i] = splitText[i].replace(re, localWordConversion[char]);
+				}
+				for (char in charConversion) {
+					var re = new RegExp(char, 'g');
+					splitText[i] = splitText[i].replace(re, charConversion[char]);
+				}
+				for (char in falsePositiveConversion) {
+					var re = new RegExp(char, 'g');
+					splitText[i] = splitText[i].replace(re, falsePositiveConversion[char]);
+				}
+			
+				splitText[i] = "<em>" + splitText[i] + "</em>";
+			}
+			isInsideQuotes = !isInsideQuotes;
+		}
+		outputText.innerHTML = splitText.join("<br/><br/>");
+	
+	} else {
+		for (char in localWordConversion) {
+			var re = new RegExp(char, 'g');
+			rawText = rawText.replace(re, localWordConversion[char]);
+		}
+		for (char in charConversion) {
+			var re = new RegExp(char, 'g');
+			rawText = rawText.replace(re, charConversion[char]);
+		}
+		for (char in falsePositiveConversion) {
+			var re = new RegExp(char, 'g');
+			rawText = rawText.replace(re, falsePositiveConversion[char]);
+		}
+		outputText.innerHTML = rawText;
+	}
+}
+</script>
+
+
+<title>Boston Accent Generator</title>
+</head>
+</html>
+
+<body onload="pageLoaded()">
+	<h1>Boston Accent Generator</h1>
+	<h4>by Ben Reynolds</h4>
+	<div>
+		<p>Enter the text you would like converted into a Boston accent:</p>
+		<textarea id="input-text" rows="8" cols="80"></textarea><br/>
+		Translate: <input type="radio" name="translation-type" id="translation-full" value="full-text">Full Text</input> <input type="radio" name="translation-type" id="translation-quotes" value="quotes-only">Quotes Only</input><br/>
+		<button onclick="translateText()">Translate</button> <br/>
+		<a href="http://www.youtube.com/watch?v=RbK4cL3QSc0">Pronunciation guide</a>
+
+	</div>
+	<hr/>
+	<div id='output-text'></div>
+</body>
